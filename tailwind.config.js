@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {},
   },
-  base: "/Currency-converter",
+  base: "./Currency-converter",
   plugins: [],
 }
 
